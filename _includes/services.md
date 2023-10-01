@@ -1,7 +1,6 @@
-## Projects
+<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
 
-
-<div class="Projects">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
