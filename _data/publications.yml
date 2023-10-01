@@ -3,7 +3,6 @@ main:
   - title: "Recent Advances in Wacker Oxidation: from Conventional to Oxidative Rearrangement of 1,1-disubstituted Alkenes to Ketones"
     authors: Kecheng Wang
     conference_short: CHEM2505
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: assets/files/CHEM2505_Spring2023_Final.pdf
     notes: Course Review, Spring 2023
     image: assets/img/Wacker.png
