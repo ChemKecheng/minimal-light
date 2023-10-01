@@ -4,20 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Junior student at **ShanghaiTech University** & Exchange student at **University of Illinois Urbana-Champaign**. 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Interested in selective molecular recognitions and functional organic materials
+- **Molecular Recognitions:** Optimizition of non-covalent interactions, Anion recongition, Solid Phase Synthesis
+- **Functional Organic Materials:** Small Molecule Release, High-performance electrolyte materials
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+- **[Aug. 2023]** Delighted to announce I'll be an exchange student at the University of Illinois at Urbana-Champaign (UIUC) starting this month. Stay tuned for updates!
